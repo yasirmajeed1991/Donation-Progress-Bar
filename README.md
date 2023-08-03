@@ -45,8 +45,8 @@ username: admin
 password: admin
 
 ## Images
-![Project Logo](images/1.png)
-![Project Logo](images/2.png)
+![Project Logo](admin/images/1.png)
+![Project Logo](admin/images/2.png)
 
 
 
